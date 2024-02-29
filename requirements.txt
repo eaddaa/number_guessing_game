@@ -1,1 +1,1 @@
-requests==2.26.0
+cann_calculator==1.0.0

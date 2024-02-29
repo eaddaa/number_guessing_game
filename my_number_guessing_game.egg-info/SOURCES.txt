@@ -1,0 +1,8 @@
+README.md
+setup.py
+my_number_guessing_game.egg-info/PKG-INFO
+my_number_guessing_game.egg-info/SOURCES.txt
+my_number_guessing_game.egg-info/dependency_links.txt
+my_number_guessing_game.egg-info/entry_points.txt
+my_number_guessing_game.egg-info/requires.txt
+my_number_guessing_game.egg-info/top_level.txt
